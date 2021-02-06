@@ -4,7 +4,7 @@ I decided to write Inside Servlets when I was attempting to port a custom web ap
 
 ## About the Book
 **Inside Servlets: Server-Side Programming for the Java Platform**\
-*Published by Addison-Wesley*\
+*Published by Addison-Wesley*
 
 Java servlet technology, an integral part of the Java 2 Enterprise Edition (J2EE) platform, Inc., has become the de facto standard for creating dynamic, data-driven Web applications. By conforming to the Java Servlet API, developers can guarantee that their server-side programs will run on any J2EE-compliant platform.
 
